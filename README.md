@@ -1,5 +1,7 @@
-TypeScript React Hello World Demo
+TypeScript React Grid Layout Demo
 =================================
+
+使用`react-grid-layout`来布局，功能非常强大。
 
 ```
 npm install
