@@ -1,7 +1,7 @@
-TypeScript React Grid Layout Demo
+TypeScript React Grid Layout "draggableHandle" Demo
 =================================
 
-使用`react-grid-layout`来布局，功能非常强大。
+使用`draggableHandle`，可以完美的解决嵌套layout中无法保持外部layout不动时拖动内部layout的问题。
 
 ```
 npm install
